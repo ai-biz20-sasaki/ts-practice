@@ -1,4 +1,4 @@
-//関数式でexportする
+//関数宣言でexportする
 export function getUyhoName() {
   return "uhyo";
 };
