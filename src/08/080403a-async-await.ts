@@ -1,5 +1,3 @@
-import { get } from "http";
-
 {
   const sleep = (duration: number) => {
     return new Promise<void>((resolve) => {
